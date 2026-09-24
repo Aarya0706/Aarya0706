@@ -34,13 +34,15 @@
 
 ---
 
+---
+
 # 🖥️ GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aarya0706&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+<img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarya0706&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+<img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
 
 </div>
 
