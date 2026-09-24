@@ -32,7 +32,7 @@
 
 </div>
 
----
+```md
 
 # 🖥️ GITHUB ANALYTICS
 
