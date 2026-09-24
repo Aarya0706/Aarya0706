@@ -38,9 +38,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aarya0706&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&rank_icon=github" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aarya0706&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarya0706&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarya0706&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 
 </div>
 
@@ -51,16 +51,6 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Aarya0706&theme=tokyonight&hide_border=true&border_radius=10" />
-
-</div>
-
----
-
-# 📈 CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aarya0706&theme=tokyo-night&hide_border=true&area=true&custom_title=Aarya%27s%20GitHub%20Activity" width="95%" />
 
 </div>
 
