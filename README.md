@@ -1,244 +1,109 @@
 <div align="center">
 
-# Hi, I'm Aarya Shirsath 👋
+# Hi there 👋, I'm Aarya Shirsath
 
 ### AI/ML • Backend • Full-Stack • Open Source
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&width=750&lines=Building+AI-powered+applications;Engineering+backend+systems;Exploring+LLMs%2C+RAG+%26+multi-agent+systems;Building+full-stack+products;Contributing+to+open+source" />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+AI-powered+applications;Engineering+backend+systems;Exploring+LLMs%2C+RAG+%26+multi-agent+systems;Building+full-stack+products;Contributing+to+open+source" />
 </p>
 
-<p align="center">
+<p>
   <a href="https://portfolio-aarya07.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/Aarya0706">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Aarya0706-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/aarya-shirsath-9b7684340/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=Aarya0706&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Aarya0706?label=FOLLOWERS&style=for-the-badge&color=10B981" />
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+<div align="center">
 
-I'm a Computer Science & Engineering student who enjoys building **AI-powered products, backend systems, and full-stack applications**.
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nextjs,fastapi,flask,nodejs,express,spring,postgres,mysql,sqlite,aws,docker,git,github&perline=10" />
 
-My main interests are:
-
-- 🤖 AI / Machine Learning
-- 🧠 LLM Applications
-- 🔎 RAG & Retrieval Systems
-- 🤝 Multi-Agent Systems
-- ⚙️ Backend Engineering
-- 🌐 Full-Stack Development
-- ☁️ Cloud & Deployment
-- 🌍 Open Source
-
-I like taking projects beyond the prototype stage:
-
-**Build → Engineer → Test → Deploy → Improve**
+</div>
 
 ---
 
-## 🚀 What I'm Working On
+# 🖥️ GITHUB ANALYTICS
 
-- 🌍 Contributing to open-source projects
-- 🤖 Building practical LLM-powered applications
-- 🧠 Learning more about RAG, agents and AI evaluation
-- ⚙️ Improving backend engineering and system-design skills
-- 💻 Practicing DSA with Java and C++
-- ☁️ Exploring cloud, Docker and scalable deployment
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Aarya0706&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" height="180" />
 
-# ⭐ Featured Projects
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarya0706&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180" />
 
-## 🛡️ FraudShield AI
-
-### Explainable Financial Fraud Detection Platform
-
-A production-style fraud detection system combining machine learning, explainability and a secure REST API.
-
-**Highlights**
-
-- XGBoost-based fraud detection
-- FastAPI REST API
-- SHAP explainability
-- Risk classification
-- Batch prediction
-- Runtime monitoring
-- API-key authentication
-- Rate limiting
-- Docker-ready deployment
-
-**Tech:** `Python` `XGBoost` `FastAPI` `Scikit-learn` `Pandas` `NumPy` `SHAP`
-
-🔗 **Repository:** https://github.com/Aarya0706/FraudShield-AI  
-🌐 **Live Demo:** https://fraud-detection-api-eta.vercel.app/
+</div>
 
 ---
 
-## 🏥 MediAgent AI
+# 🔥 CONTRIBUTION STREAK
 
-### Agentic AI Clinical Decision Support Platform
+<div align="center">
 
-A healthcare-focused AI platform combining multi-agent workflows, deterministic safety logic, patient-scoped retrieval and evaluation.
+<img src="https://streak-stats.demolab.com?user=Aarya0706&theme=tokyonight&hide_border=true&border_radius=10" />
 
-**Highlights**
-
-- Multi-agent workflow
-- AI-assisted patient triage
-- Emergency detection
-- Department routing
-- Safety guardrails
-- Patient-scoped RAG
-- Drug interaction analysis
-- Lab-report interpretation
-- Runtime observability
-- Automated evaluation
-
-**Tech:** `Python` `LangChain` `Groq` `Streamlit` `SQLite` `OpenFDA`
-
-🔗 **Repository:** https://github.com/Aarya0706/mediagent-ai  
-🌐 **Live Demo:** https://mediagent-ai.streamlit.app/
+</div>
 
 ---
 
-## 🛕 Temple Heritage
+# 📈 CONTRIBUTION ACTIVITY
 
-### AI-Powered Temple Discovery & Pilgrimage Platform
+<div align="center">
 
-A full-stack platform for discovering Indian temples, traditions and festivals while helping users plan pilgrimages.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aarya0706&bg_color=0D1117&color=A970FF&line=A970FF&point=FFFFFF&area=true&hide_border=true&custom_title=Aarya%27s%20GitHub%20Activity" width="95%" />
 
-**Highlights**
-
-- AI-powered itinerary planner
-- AI assistant
-- Supabase authentication & persistence
-- Reviews and photo uploads
-- Admin moderation
-- Google Maps integration
-- Gamified pilgrimage passport
-
-**Tech:** `Next.js` `React` `TypeScript` `Supabase` `Groq`
-
-🔗 **Repository:** https://github.com/Aarya0706/temple-heritage  
-🌐 **Live Demo:** https://templeheritage.me/
+</div>
 
 ---
 
-## 🩺 Healthcare Appointment Manager
+# 🏆 GITHUB TROPHIES
 
-### Full-Stack Healthcare Workflow Platform
+<div align="center">
 
-A role-based healthcare platform supporting patient, doctor and admin workflows.
+<img src="https://github-profile-trophy.vercel.app/?username=Aarya0706&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 
-**Highlights**
-
-- Patient / doctor / admin portals
-- Appointment booking
-- LLM-powered pre-visit summaries
-- Post-visit summaries
-- Medication reminders
-- Email notifications
-- Google Calendar integration
-- PostgreSQL persistence
-
-**Tech:** `Node.js` `Express` `PostgreSQL` `Prisma` `Gemini`
-
-🔗 **Repository:** https://github.com/Aarya0706/healthcare-appointment-manager  
-🌐 **Live Demo:** https://healthcare-appointment-manager-sandy.vercel.app/
+</div>
 
 ---
 
-## 📊 Nifty Research Assistant
+# 👩‍💻 ABOUT ME
 
-AI-assisted financial research and analysis application designed to help users explore market information through an intelligent workflow.
+I'm a Computer Science & Engineering student focused on building **AI-powered applications, backend systems, and full-stack products**.
 
-**Tech:** `Python` `AI` `Research`
+I enjoy taking ideas beyond prototypes and turning them into systems that are:
 
-🔗 **Repository:** https://github.com/Aarya0706/nifty-research-assistant
+**Useful → Explainable → Testable → Maintainable → Deployable**
 
----
-
-## 🎓 EduGrade-AI
-
-### AI-Powered Assignment Evaluation Platform
-
-An AI-driven educational platform using OCR, automated grading and plagiarism analysis to streamline assignment evaluation.
-
-**Tech:** `Python` `Flask` `SQLAlchemy` `Gemini`
-
-🔗 **Repository:** https://github.com/Aarya0706/EduGrade-AI
-
----
-
-# 🧠 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,sql" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,spring" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase" />
-</p>
-
-### AI / ML
-
-`LangChain` `RAG` `Multi-Agent Systems` `LLM Applications`
-
-`XGBoost` `Scikit-learn` `Pandas` `NumPy` `SHAP`
-
-`Prompt Engineering` `Model Evaluation`
-
-### Cloud / DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,vercel,git,github" />
-</p>
-
----
-
-# 🌍 Open Source
-
-Currently building hands-on open-source experience through community contribution programs.
-
-### My contribution workflow
+### Areas I enjoy working in
 
 ```text
-Find an issue
-      ↓
-Understand the codebase
-      ↓
-Create a branch
-      ↓
-Implement the change
-      ↓
-Test locally
-      ↓
-Open a Pull Request
-      ↓
-Address review feedback
-      ↓
-Merge 🚀
+🤖 AI / ML
+├── LLM Applications
+├── RAG
+├── Multi-Agent Systems
+├── Explainable AI
+└── AI Evaluation
+
+⚙️ Software Engineering
+├── Backend Development
+├── REST APIs
+├── Full-Stack Applications
+├── System Design
+└── Cloud Deployment
+
+🌍 Open Source
+├── GitHub
+├── Pull Requests
+├── Code Review
+└── Collaborative Development
