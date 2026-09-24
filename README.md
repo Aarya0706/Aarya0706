@@ -34,17 +34,23 @@
 
 ---
 
----
-
 # 🖥️ GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
-
-<img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
+<img src="./profile/top-langs.svg" height="180" alt="Most Used Languages" />
 
 </div>
+
+### 💻 Open Source & Development
+
+```text
+AI / ML        ████████████████████
+Backend        ██████████████████
+Full-Stack     ████████████████
+Open Source    █████████████
+DSA            ███████████
+Cloud          █████████
 
 ---
 
