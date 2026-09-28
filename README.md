@@ -34,265 +34,66 @@
 
 ---
 
-# 🖥️ GITHUB ANALYTICS
+## 👋 About Me
 
-<div align="center">
+Computer Science & Engineering student focused on **AI/ML, backend engineering, full-stack development, and open source**.
 
-<img src="./profile/top-langs.svg" height="180" alt="Most Used Languages" />
-
-</div>
-
-### 💻 Current Development Focus
-
-`AI/ML` · `Backend` · `Full-Stack` · `DSA` · `Cloud` · `Open Source`
+🌍 **Open Source Contributor** — building through community projects, pull requests, and collaborative development.
 
 ---
 
-# 🔥 CONTRIBUTION STREAK
+## 🚀 Featured Projects
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Aarya0706&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Contribution Streak" />
-
-</div>
-
----
-
-# 👩‍💻 ABOUT ME
-
-I'm a Computer Science & Engineering student interested in building **AI-powered applications, backend systems, and full-stack products**.
-
-I enjoy taking ideas beyond prototypes and turning them into software that is:
-
-**Useful → Explainable → Testable → Maintainable → Deployable**
-
-### Areas I enjoy working in
-
-- 🤖 **AI / ML** — LLM applications, RAG, multi-agent systems, explainable AI
-- ⚙️ **Software Engineering** — backend development, REST APIs, full-stack applications, system design
-- 🌍 **Open Source** — GitHub, pull requests, code review, collaborative development
-- ☁️ **Cloud & Deployment** — AWS, Docker, Vercel, Render
+* 🛡️ **[FraudShield AI](https://github.com/Aarya0706/FraudShield-AI)** — Explainable fraud detection with XGBoost, FastAPI & SHAP.
+* 🏥 **[MediAgent AI](https://github.com/Aarya0706/mediagent-ai)** — Agentic healthcare platform with RAG, safety guardrails & evaluation.
+* 🛕 **[Temple Heritage](https://github.com/Aarya0706/temple-heritage)** — AI-powered temple discovery, itinerary planning & pilgrimage tracking.
+* 🩺 **[Healthcare Appointment Manager](https://github.com/Aarya0706/healthcare-appointment-manager)** — Full-stack healthcare workflow platform.
+* 📊 **[Nifty Research Assistant](https://github.com/Aarya0706/nifty-research-assistant)** — AI-assisted financial research.
+* 🎓 **[EduGrade-AI](https://github.com/Aarya0706/EduGrade-AI)** — AI-assisted assignment evaluation.
 
 ---
 
-# 🚀 FEATURED PROJECTS
+## 🧠 Tech Stack
 
-## 🛡️ FraudShield AI
+**Languages:** Python · Java · C++ · JavaScript · TypeScript · SQL
 
-### Explainable Financial Fraud Detection Platform
+**AI/ML:** LangChain · RAG · Multi-Agent Systems · LLM Applications · XGBoost · Scikit-learn · SHAP
 
-A production-style fraud detection platform combining **XGBoost, FastAPI, SHAP explainability, risk classification, batch prediction, monitoring and API security**.
+**Backend:** FastAPI · Flask · Node.js · Express · Spring Boot · REST APIs
 
-`Python` `XGBoost` `FastAPI` `Scikit-learn` `SHAP`
+**Frontend:** React · Next.js · TypeScript · Tailwind CSS
 
-🔗 [Repository](https://github.com/Aarya0706/FraudShield-AI)  
-🌐 [Live Demo](https://fraud-detection-api-eta.vercel.app/)  
-📚 [API Docs](https://fraud-detection-api-w9hz.onrender.com/docs)
+**Cloud & Databases:** PostgreSQL · MySQL · SQLite · Supabase · AWS · Docker · Vercel · Render
 
 ---
 
-## 🏥 MediAgent AI
+## 💼 Experience
 
-### Agentic AI Clinical Decision Support Platform
+**AI/ML Intern — MPOnline**
+Worked on data preprocessing, model development, evaluation, and CNN-based classification projects.
 
-A healthcare-focused AI platform combining **multi-agent workflows, deterministic safety guardrails, patient-scoped RAG, observability and automated evaluation**.
-
-`Python` `LangChain` `Groq` `Streamlit` `SQLite`
-
-🔗 [Repository](https://github.com/Aarya0706/mediagent-ai)  
-🌐 [Live Demo](https://mediagent-ai.streamlit.app/)
+**Software Development Engineer Intern — MPOnline**
+Built a full-stack task management system with Flask, MySQL, authentication, and REST APIs.
 
 ---
 
-## 🛕 Temple Heritage
+## 🏅 Highlights
 
-### AI-Powered Temple Discovery & Pilgrimage Platform
-
-A full-stack platform combining **AI itinerary planning, AI assistance, temple discovery, reviews, moderation and gamified pilgrimage tracking**.
-
-`Next.js` `React` `TypeScript` `Supabase` `Groq`
-
-🔗 [Repository](https://github.com/Aarya0706/temple-heritage)  
-🌐 [Live Demo](https://templeheritage.me/)
+🥇 TCS CodeVita Season 13 — Top 10% globally
+💻 HackerRank Certified Software Engineer
+🔬 Co-authored a research paper on Edge Computing
+🧩 Completed a 50-day DSA challenge in Java
+🌍 Open Source Contributor
 
 ---
 
-## 🩺 Healthcare Appointment Manager
+## 📌 Currently
 
-### Full-Stack Healthcare Workflow Platform
-
-A role-based healthcare platform supporting **patient, doctor and admin workflows**, appointments, LLM-generated summaries, medication reminders and calendar integration.
-
-`Node.js` `Express` `PostgreSQL` `Prisma` `Gemini`
-
-🔗 [Repository](https://github.com/Aarya0706/healthcare-appointment-manager)  
-🌐 [Live Demo](https://healthcare-appointment-manager-sandy.vercel.app/)
+`AI/ML` · `LLM / RAG` · `Backend` · `DSA` · `System Design` · `Cloud` · `Open Source`
 
 ---
 
-## 📊 Nifty Research Assistant
-
-### AI-Assisted Financial Research
-
-An AI-powered application for financial and market research workflows.
-
-`Python` `AI` `Research`
-
-🔗 [Repository](https://github.com/Aarya0706/nifty-research-assistant)  
-🌐 [Live Demo](https://nifty-research-assistant-nu.vercel.app/)
-
----
-
-## 🎓 EduGrade-AI
-
-### AI-Powered Assignment Evaluation Platform
-
-An educational platform combining **OCR, AI-assisted grading, plagiarism detection and role-based workflows**.
-
-`Python` `Flask` `SQLAlchemy` `Gemini`
-
-🔗 [Repository](https://github.com/Aarya0706/EduGrade-AI)
-
----
-
-# 🌍 OPEN SOURCE
-
-Currently building hands-on open-source experience through community projects.
-
-### Contribution Workflow
-
-```text
-Find an issue
-      ↓
-Understand the codebase
-      ↓
-Create a branch
-      ↓
-Implement the change
-      ↓
-Test locally
-      ↓
-Open a Pull Request
-      ↓
-Address review feedback
-      ↓
-Merge 🚀
-```
-
-### Current Focus
-
-`OSCI` · `GitHub` · `AI Tools` · `Backend` · `Full-Stack`
-
----
-
-# 🧠 TECH STACK
-
-### Languages
-
-`Python` `Java` `C++` `JavaScript` `TypeScript` `SQL`
-
-### AI / Machine Learning
-
-`LangChain` `RAG` `Multi-Agent Systems` `LLM Applications`
-
-`XGBoost` `Scikit-learn` `Pandas` `NumPy` `SHAP`
-
-`Prompt Engineering` `Model Evaluation`
-
-### Backend
-
-`FastAPI` `Flask` `Node.js` `Express` `Spring Boot`
-
-`REST APIs` `Pydantic` `SQLAlchemy` `Prisma` `Uvicorn`
-
-### Frontend
-
-`React` `Next.js` `TypeScript` `HTML` `CSS` `Tailwind CSS`
-
-### Databases
-
-`PostgreSQL` `MySQL` `SQLite` `Supabase` `ChromaDB`
-
-### Cloud & DevOps
-
-`AWS` `Docker` `Vercel` `Render` `Git` `GitHub`
-
----
-
-# 💼 EXPERIENCE
-
-## AI/ML Intern — MPOnline
-
-Worked across the machine-learning lifecycle including data preprocessing, model development and evaluation.
-
-Built CNN-based classifiers for **CIFAR-10, LFW face recognition and MRI brain-tumor classification**.
-
----
-
-## Software Development Engineer Intern — MPOnline
-
-Built a full-stack task management system using **Flask and MySQL**, including authentication, REST APIs and task-management dashboards.
-
----
-
-# 🏅 ACHIEVEMENTS
-
-- 🥇 **TCS CodeVita Season 13** — Top 10% globally
-- 💻 **HackerRank Certified Software Engineer**
-- ☁️ **AWS Cloud Training**
-- 🤖 **ServiceNow Virtual Internship**
-- 📊 **NPTEL Marketing Analytics** — Elite
-- 🔬 Co-authored a research paper on **Edge Computing**
-- 🧩 Completed a **50-day DSA challenge in Java**
-
----
-
-# 🎯 CURRENT FOCUS
-
-```text
-→ AI-powered applications
-→ LLM / RAG systems
-→ Multi-agent architectures
-→ Backend engineering
-→ System design
-→ DSA
-→ Cloud & deployment
-→ Open-source contributions
-```
-
----
-
-# 📚 CURRENTLY LEARNING
-
-`Advanced DSA` · `Backend Architecture` · `System Design`
-
-`RAG Architecture` · `Multi-Agent Orchestration` · `AI Evaluation`
-
-`Docker` · `Cloud Deployment` · `Open Source Collaboration`
-
----
-
-# 💡 ENGINEERING PHILOSOPHY
-
-> Build it. Understand it. Test it. Deploy it. Improve it.
-
-```text
-Idea
- ↓
-Architecture
- ↓
-Implementation
- ↓
-Testing
- ↓
-Deployment
- ↓
-Iteration
-```
-
----
-
-# 🤝 CONNECT WITH ME
+## 🤝 Connect
 
 <div align="center">
 
