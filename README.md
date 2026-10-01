@@ -5,7 +5,7 @@
 ### AI/ML • Backend • Full-Stack • Open Source
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+AI-powered+applications;Engineering+backend+systems;Exploring+LLMs%2C+RAG+%26+multi-agent+systems;Building+full-stack+products;Learning+through+open+source" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+AI-powered+applications;Engineering+backend+systems;Exploring+LLMs%2C+RAG+%26+multi-agent+systems;Building+full-stack+products;Contributing+to+open+source" />
 </p>
 
 <p>
@@ -38,7 +38,7 @@
 
 Computer Science & Engineering student focused on **AI/ML, backend engineering, full-stack development, and open source**.
 
-🌍 **Open Source Contributor** — building through community projects, pull requests, and collaborative development.
+🌍 **Open Source Contributor** — merged work in [SecureFlow](https://github.com/GauravKarakoti/SecureFlow) (OSCG 2026), an AI-powered security scanner; I enjoy backend and LLM-infrastructure issues.
 
 ---
 
@@ -50,6 +50,12 @@ Computer Science & Engineering student focused on **AI/ML, backend engineering, 
 * 🩺 **[Healthcare Appointment Manager](https://github.com/Aarya0706/healthcare-appointment-manager)** — Full-stack healthcare workflow platform.
 * 📊 **[Nifty Research Assistant](https://github.com/Aarya0706/nifty-research-assistant)** — AI-assisted financial research.
 * 🎓 **[EduGrade-AI](https://github.com/Aarya0706/EduGrade-AI)** — AI-assisted assignment evaluation.
+
+---
+
+## 🌍 Open Source
+
+* 🛡️ **[SecureFlow](https://github.com/GauravKarakoti/SecureFlow)** (OSCG 2026) — Built Redis caching for LLM security explanations: versioned cache keys, configurable TTL, fail-open on Redis errors. [PR #1160](https://github.com/GauravKarakoti/SecureFlow/pull/1160) · closes [#1139](https://github.com/GauravKarakoti/SecureFlow/issues/1139)
 
 ---
 
@@ -83,7 +89,7 @@ Built a full-stack task management system with Flask, MySQL, authentication, and
 💻 HackerRank Certified Software Engineer
 🔬 Co-authored a research paper on Edge Computing
 🧩 Completed a 50-day DSA challenge in Java
-🌍 Open Source Contributor
+🌍 OSCG 2026 Contributor — merged PR in SecureFlow (Redis LLM response caching)
 
 ---
 
