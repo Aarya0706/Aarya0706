@@ -38,7 +38,14 @@
 
 Computer Science & Engineering student focused on **AI/ML, backend engineering, full-stack development, and open source**.
 
-🌍 **Open Source Contributor** — merged work in [SecureFlow](https://github.com/GauravKarakoti/SecureFlow) (OSCG 2026), an AI-powered security scanner; I enjoy backend and LLM-infrastructure issues.
+## 🌍 Open Source
+
+**4 merged pull requests** across community projects:
+
+* 🛡️ **[SecureFlow](https://github.com/GauravKarakoti/SecureFlow)** (OSCG 2026) — Built Redis caching for LLM security explanations: versioned cache keys, configurable TTL, fail-open on Redis errors. [PR #1160](https://github.com/GauravKarakoti/SecureFlow/pull/1160)
+* 🤖 **[iloveAgents](https://github.com/AditthyaSS/iloveAgents)** — Updated the agent category list in the docs. [PR #988](https://github.com/AditthyaSS/iloveAgents/pull/988)
+* 🧮 **[TCalc](https://github.com/Sandesh13fr/TCalc)** — Added CLI help examples. [PR #117](https://github.com/Sandesh13fr/TCalc/pull/117)
+* 🔧 **[hiero-bot-py](https://github.com/AnthropicBots/hiero-bot-py)** — PR quality gates fix. [PR #143](https://github.com/AnthropicBots/hiero-bot-py/pull/143)
 
 ---
 
