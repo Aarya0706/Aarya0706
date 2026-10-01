@@ -60,12 +60,6 @@ Computer Science & Engineering student focused on **AI/ML, backend engineering, 
 
 ---
 
-## 🌍 Open Source
-
-* 🛡️ **[SecureFlow](https://github.com/GauravKarakoti/SecureFlow)** (OSCG 2026) — Built Redis caching for LLM security explanations: versioned cache keys, configurable TTL, fail-open on Redis errors. [PR #1160](https://github.com/GauravKarakoti/SecureFlow/pull/1160) · closes [#1139](https://github.com/GauravKarakoti/SecureFlow/issues/1139)
-
----
-
 ## 🧠 Tech Stack
 
 **Languages:** Python · Java · C++ · JavaScript · TypeScript · SQL
